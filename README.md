@@ -66,27 +66,28 @@ Screenshots will be added here as part of the portfolio version.
 
 ### Staff dashboard
 
-`[Screenshot: staff dashboard]`
+![Staff dashboard](screenshots/SD.png)
 
 ### Real-time updates
 
-`[Screenshot: staff dashboard showing live update]`
+![Real-time updates](screenshots/RT.png)
 
 ### Online checkout
 
-`[Screenshot: Stripe checkout or order flow]`
+![Online checkout](screenshots/OC.png)
 
 ### Messaging and email
 
-`[Screenshot: customer/staff messaging interface]`
+![Messaging and email](screenshots/Mes.png)
 
 ### Shop and order management
 
-`[Screenshot: product catalog / order management]`
+![Shop and order management](screenshots/SH1.png)
+![Shop and order management](screenshots/SH2.png)
 
 ### Email campaign analytics
 
-`[Screenshot: email campaign / delivery analytics]`
+![Email campaign analytics](screenshots/CAM.png)
 
 
 ---
