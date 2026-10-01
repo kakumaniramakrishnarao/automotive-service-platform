@@ -53,11 +53,16 @@ Screenshots will be added here as part of the portfolio version.
 
 ### Customer booking
 
-![Customer booking](screenshots/Flow1.png)(screenshots/Flow2.png)(screenshots/Flow3.png)
+![Customer booking](screenshots/Flow1.png)
+![Customer booking](screenshots/Flow2.png)
+![Customer booking](screenshots/Flow3.png)
 
 ### Customer portal
 
-`[Screenshot: customer portal / appointments / rewards]`
+![Customer portal](screenshots/CP1.png)
+![Customer portal](screenshots/CP2.png)
+![Customer portal](screenshots/CP3.png)
+![Customer portal](screenshots/CP4.png)
 
 ### Staff dashboard
 
