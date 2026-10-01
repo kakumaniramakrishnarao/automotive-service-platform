@@ -53,7 +53,7 @@ Screenshots will be added here as part of the portfolio version.
 
 ### Customer booking
 
-`[Screenshot: customer booking flow]`
+![Customer booking](screenshots/Flow1.png)(screenshots/Flow2.png)(screenshots/Flow3.png)
 
 ### Customer portal
 
