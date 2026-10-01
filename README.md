@@ -78,7 +78,7 @@ Screenshots will be added here as part of the portfolio version.
 
 ### Messaging and email
 
-![Messaging and email](screenshots/Mes.png)
+![Messaging and email](screenshots/MES.png)
 
 ### Shop and order management
 
